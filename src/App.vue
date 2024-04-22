@@ -7,18 +7,17 @@ import { RouterLink, RouterView } from 'vue-router'
     <header>
       <div class="wrapper">
         <!-- <HelloWorld msg="You did it!" /> -->
-
         <nav>
           <RouterLink to="/">Home</RouterLink> |
           <RouterLink to="/about">About</RouterLink>
         </nav>
       </div>
     </header>
+    <RouterView />
   </div>
-  <RouterView />
 </template>
 
-<style scoped>
+<style>
 #layout {
   font-family: Arial, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -35,5 +34,8 @@ nav a {
 }
 nav a.router-link-exact-active {
   color: #42b983;
+}
+h2 {
+  font-size: 20px;
 }
 </style>
