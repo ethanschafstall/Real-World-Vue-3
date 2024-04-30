@@ -22,10 +22,19 @@ onMounted(() => {
 <template>
   <main>
     <h1>Events For Good</h1>
-    <!-- <h1>You are on page {{ page }}</h1> -->
     <h1 v-show="showExtra">Extra Stuff</h1>
     <div class="events">
       <EventCard v-for="event in events" :key="event.id" :event="event" />
+      <router-link
+        id="page-prev"
+        :to="{ name: 'event-list', query: { page: page - 1 } }"
+        rel="prev"
+        v-if="page != 1"
+        >&#60; Previous</router-link
+      >
+      <RouterLink :to="{ name: 'event-list', query: { page: page + 1 } }" rel="next"
+        >Next Page &#62;</RouterLink
+      >
     </div>
   </main>
 </template>
