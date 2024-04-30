@@ -29,6 +29,106 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 790,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Join us in cleaning up litter along the coastline.",
+      "location": "Huntington Beach",
+      "date": "August 5, 2022",
+      "time": "10:00",
+      "organizer": "Linda Martinez"
+    },
+    {
+      "id": 791,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Contribute to keeping our beaches clean by picking up trash.",
+      "location": "Bondi Beach",
+      "date": "September 10, 2022",
+      "time": "09:30",
+      "organizer": "Michael Thompson"
+    },
+    {
+      "id": 792,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Let's work together to protect marine life by removing debris from the shore.",
+      "location": "Santa Monica",
+      "date": "October 15, 2022",
+      "time": "12:00",
+      "organizer": "Sarah Johnson"
+    },
+    {
+      "id": 793,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Make a difference in your community by participating in our beach cleanup event.",
+      "location": "Gold Coast",
+      "date": "November 20, 2022",
+      "time": "08:00",
+      "organizer": "David Lee"
+    },
+    {
+      "id": 794,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help preserve our coastal ecosystems by removing trash from the beach.",
+      "location": "Malibu",
+      "date": "December 3, 2022",
+      "time": "11:30",
+      "organizer": "Emily Wilson"
+    },
+    {
+      "id": 795,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Come together for a day of environmental stewardship as we clean up our local beach.",
+      "location": "Brighton Beach",
+      "date": "January 8, 2023",
+      "time": "10:30",
+      "organizer": "John Smith"
+    },
+    {
+      "id": 796,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Join us in keeping our shores pristine by removing litter from the beach.",
+      "location": "Waikiki Beach",
+      "date": "February 12, 2023",
+      "time": "09:00",
+      "organizer": "Emma Davis"
+    },
+    {
+      "id": 797,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Protect marine habitats by participating in our beach cleanup event.",
+      "location": "Bondi Beach",
+      "date": "March 18, 2023",
+      "time": "10:00",
+      "organizer": "Daniel Brown"
+    },
+    {
+      "id": 798,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Make a positive impact on the environment by joining us for a beach cleanup.",
+      "location": "Venice Beach",
+      "date": "April 22, 2023",
+      "time": "11:00",
+      "organizer": "Jennifer Garcia"
+    },
+    {
+      "id": 799,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help preserve our coastal ecosystems by participating in this beach cleanup.",
+      "location": "Cancun",
+      "date": "May 7, 2023",
+      "time": "08:30",
+      "organizer": "Matthew Rodriguez"
     }
   ]
 }
