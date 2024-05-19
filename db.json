@@ -1,134 +1,204 @@
 {
   "events": [
     {
-      "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
+      "id": 1,
+      "category": "Music",
+      "title": "Summer Music Festival",
+      "description": "A day-long festival featuring various bands and artists.",
+      "location": "Central Park, NY",
+      "date": "June 21, 2024",
       "time": "12:00",
-      "organizer": "Kat Laydee"
+      "organizer": "MusicFest Co."
     },
     {
-      "id": 456,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
-      "time": "10:00",
-      "organizer": "Fern Pollin"
-    },
-    {
-      "id": 789,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
-      "organizer": "Carey Wales"
-    },
-    {
-      "id": 790,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Join us in cleaning up litter along the coastline.",
-      "location": "Huntington Beach",
-      "date": "August 5, 2022",
-      "time": "10:00",
-      "organizer": "Linda Martinez"
-    },
-    {
-      "id": 791,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Contribute to keeping our beaches clean by picking up trash.",
-      "location": "Bondi Beach",
-      "date": "September 10, 2022",
-      "time": "09:30",
-      "organizer": "Michael Thompson"
-    },
-    {
-      "id": 792,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Let's work together to protect marine life by removing debris from the shore.",
-      "location": "Santa Monica",
-      "date": "October 15, 2022",
-      "time": "12:00",
-      "organizer": "Sarah Johnson"
-    },
-    {
-      "id": 793,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Make a difference in your community by participating in our beach cleanup event.",
-      "location": "Gold Coast",
-      "date": "November 20, 2022",
-      "time": "08:00",
-      "organizer": "David Lee"
-    },
-    {
-      "id": 794,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help preserve our coastal ecosystems by removing trash from the beach.",
-      "location": "Malibu",
-      "date": "December 3, 2022",
-      "time": "11:30",
-      "organizer": "Emily Wilson"
-    },
-    {
-      "id": 795,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Come together for a day of environmental stewardship as we clean up our local beach.",
-      "location": "Brighton Beach",
-      "date": "January 8, 2023",
-      "time": "10:30",
-      "organizer": "John Smith"
-    },
-    {
-      "id": 796,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Join us in keeping our shores pristine by removing litter from the beach.",
-      "location": "Waikiki Beach",
-      "date": "February 12, 2023",
+      "id": 2,
+      "category": "Tech",
+      "title": "AI Conference 2024",
+      "description": "Annual conference discussing the latest in AI technology.",
+      "location": "Silicon Valley, CA",
+      "date": "September 12, 2024",
       "time": "09:00",
-      "organizer": "Emma Davis"
+      "organizer": "Tech Innovators"
     },
     {
-      "id": 797,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Protect marine habitats by participating in our beach cleanup event.",
-      "location": "Bondi Beach",
-      "date": "March 18, 2023",
+      "id": 3,
+      "category": "Sports",
+      "title": "City Marathon",
+      "description": "Join the annual city marathon and run through iconic city landmarks.",
+      "location": "Boston, MA",
+      "date": "July 15, 2024",
+      "time": "07:00",
+      "organizer": "Marathon Events"
+    },
+    {
+      "id": 4,
+      "category": "Art",
+      "title": "Art Exhibition",
+      "description": "Exhibition showcasing contemporary art from local artists.",
+      "location": "Art Gallery, LA",
+      "date": "August 10, 2024",
+      "time": "18:00",
+      "organizer": "LA Art Association"
+    },
+    {
+      "id": 5,
+      "category": "Education",
+      "title": "Science Fair",
+      "description": "An event for students to showcase their science projects.",
+      "location": "Community Center, NY",
+      "date": "October 5, 2024",
       "time": "10:00",
-      "organizer": "Daniel Brown"
+      "organizer": "NY Schools"
     },
     {
-      "id": 798,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Make a positive impact on the environment by joining us for a beach cleanup.",
-      "location": "Venice Beach",
-      "date": "April 22, 2023",
+      "id": 6,
+      "category": "Food",
+      "title": "Food Truck Festival",
+      "description": "A variety of food trucks offering a range of cuisines.",
+      "location": "Downtown, SF",
+      "date": "June 30, 2024",
       "time": "11:00",
-      "organizer": "Jennifer Garcia"
+      "organizer": "Gourmet Events"
     },
     {
-      "id": 799,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help preserve our coastal ecosystems by participating in this beach cleanup.",
-      "location": "Cancun",
-      "date": "May 7, 2023",
-      "time": "08:30",
-      "organizer": "Matthew Rodriguez"
+      "id": 7,
+      "category": "Film",
+      "title": "Indie Film Fest",
+      "description": "Screenings of independent films from around the world.",
+      "location": "Film Theatre, Austin",
+      "date": "November 20, 2024",
+      "time": "17:00",
+      "organizer": "Indie Film Society"
+    },
+    {
+      "id": 8,
+      "category": "Literature",
+      "title": "Book Fair",
+      "description": "A fair featuring book signings and author readings.",
+      "location": "Convention Center, Chicago",
+      "date": "September 25, 2024",
+      "time": "09:00",
+      "organizer": "Book Lovers"
+    },
+    {
+      "id": 9,
+      "category": "Health",
+      "title": "Wellness Expo",
+      "description": "An expo featuring health and wellness products and services.",
+      "location": "Exhibition Hall, Miami",
+      "date": "July 10, 2024",
+      "time": "08:00",
+      "organizer": "Health First"
+    },
+    {
+      "id": 10,
+      "category": "Networking",
+      "title": "Startup Meetup",
+      "description": "A meetup for startup founders and investors.",
+      "location": "Co-working Space, Seattle",
+      "date": "August 15, 2024",
+      "time": "16:00",
+      "organizer": "Startup Hub"
+    },
+    {
+      "id": 11,
+      "category": "Fashion",
+      "title": "Fashion Week",
+      "description": "A week of fashion shows and designer showcases.",
+      "location": "Fashion District, NY",
+      "date": "September 1, 2024",
+      "time": "14:00",
+      "organizer": "Fashion Inc."
+    },
+    {
+      "id": 12,
+      "category": "Charity",
+      "title": "Charity Gala",
+      "description": "A gala event to raise funds for local charities.",
+      "location": "Grand Hotel, LA",
+      "date": "October 20, 2024",
+      "time": "19:00",
+      "organizer": "Charity Network"
+    },
+    {
+      "id": 13,
+      "category": "Technology",
+      "title": "Gadget Expo",
+      "description": "Showcase of the latest gadgets and tech innovations.",
+      "location": "Expo Center, SF",
+      "date": "November 5, 2024",
+      "time": "10:00",
+      "organizer": "Tech World"
+    },
+    {
+      "id": 14,
+      "category": "Theater",
+      "title": "Broadway Show",
+      "description": "Performance of a popular Broadway musical.",
+      "location": "Broadway Theater, NY",
+      "date": "July 25, 2024",
+      "time": "19:00",
+      "organizer": "Broadway Productions"
+    },
+    {
+      "id": 15,
+      "category": "Business",
+      "title": "Entrepreneur Summit",
+      "description": "Summit for entrepreneurs to network and learn.",
+      "location": "Conference Center, Dallas",
+      "date": "August 18, 2024",
+      "time": "09:00",
+      "organizer": "Business Leaders"
+    },
+    {
+      "id": 16,
+      "category": "Culture",
+      "title": "Cultural Festival",
+      "description": "A celebration of diverse cultures with performances and food.",
+      "location": "City Plaza, Chicago",
+      "date": "September 10, 2024",
+      "time": "11:00",
+      "organizer": "Culture Connect"
+    },
+    {
+      "id": 17,
+      "category": "Science",
+      "title": "Astronomy Night",
+      "description": "An evening of stargazing and astronomy talks.",
+      "location": "Observatory, Denver",
+      "date": "June 29, 2024",
+      "time": "20:00",
+      "organizer": "Star Gazers"
+    },
+    {
+      "id": 18,
+      "category": "Gaming",
+      "title": "Esports Tournament",
+      "description": "Competitive gaming tournament featuring top teams.",
+      "location": "Arena, Las Vegas",
+      "date": "July 12, 2024",
+      "time": "13:00",
+      "organizer": "Esports League"
+    },
+    {
+      "id": 19,
+      "category": "History",
+      "title": "Historical Reenactment",
+      "description": "Reenactment of a famous historical event.",
+      "location": "Historic Site, Philadelphia",
+      "date": "August 22, 2024",
+      "time": "10:00",
+      "organizer": "History Buffs"
+    },
+    {
+      "id": 20,
+      "category": "Environment",
+      "title": "Eco Summit",
+      "description": "Summit focused on environmental sustainability.",
+      "location": "Green Center, Portland",
+      "date": "September 15, 2024",
+      "time": "09:00",
+      "organizer": "Eco Warriors"
     }
   ]
 }
